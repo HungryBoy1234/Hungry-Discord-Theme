@@ -1,3 +1,1 @@
-# Hungry-Discord-Theme
-A theme based on me.
-This is my first theme by the way I used https://bdeditor.dev/
+# DO NOT DOWNLOAD IT HAS A BUG THAT DESTROYS YOUR DISCORD
